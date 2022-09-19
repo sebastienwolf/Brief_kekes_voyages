@@ -57,3 +57,6 @@
 | code_iata_airport     | Identifiant de localisation                                                                              | AN   | 10     |                            |
 | name_city             | Nom d'une ville                                                                                          | A    | 50     |                            |
 | name_country          | Nom d'un pays                                                                                            | A    | 50     |                            |
+
+# Modèle Conceptuel des Données
+Cliquer sur le MCD pour l'atteindre : [![MCD.png](./database%20design/MCD.png)](./database%20design/MCD.png)
