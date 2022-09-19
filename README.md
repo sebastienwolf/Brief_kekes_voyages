@@ -144,3 +144,14 @@ CREATE TABLE stopover(
    FOREIGN KEY(id_airport) REFERENCES airport(id_airport)
 );
 ~~~
+
+# UML (Unified Modeling Language)
+
+## Diagramme use case
+Cliquer sur le diagramme pour l'atteindre : [![diagrammeUseCase.png](./UML/diagrammeUseCase.png)](./UML/diagrammeUseCase.png)
+
+## Diagramme de classe
+Cliquer sur le diagramme pour l'atteindre : [![diagrammeDeClasse.drawio.png](./UML/diagrammeDeClasse.drawio.png)](./UML/diagrammeDeClasse.drawio.png)
+
+## Diagramme de séquence
+Cliquer sur le diagramme pour l'atteindre : [![diagrammeDeClasse.drawio.png](./UML/DiagrammeDeSequence.drawio.png)](./UML/DiagrammeDeSequence.drawio.png)
