@@ -1,20 +1,22 @@
 # Conception de la base de données
 
-1. [Contexte du projet](#contexte-du-projet)   
-2. [Critères de performance](#critères-de-performance) 
-3. [Livrable](#livrable)
-    1. [Pour la base de données](#pour-la-base-de-données)
-    2. [Pour l'application](#pour-lapplication) 
-4. [Règles de gestion](#règles-de-gestion) 
+## Table des mattiere
+1. [Contexte du projet](#contexte-du-projet)
+2. [Critères de performance](#critères-de-performance)
+3. [Livrable](#livrable)  
+   3.1. [Pour la base de données](#pour-la-base-de-données)  
+   3.2. [Pour l'application](#pour-lapplication)
+4. [Règles de gestion](#règles-de-gestion)
 5. [Dictionnaire de données](#dictionnaire-de-données)
 6. [Modèle Conceptuel des Données](#modèle-conceptuel-des-données)
 7. [Modèle Logique des Données](#modèle-logique-des-données)
 8. [Modèle Physique des Données](#modèle-physique-des-données)
-9. [UML (Unified Modeling Language)](#uml-unified-modeling-language)
-   1. [Diagramme use case](#diagramme-use-case)
-   2. [Diagramme de classe](#diagramme-de-classe)
-   3. [Diagramme de séquence](#diagramme-de-séquence)
+9. [UML (Unified Modeling Language)](#uml-unified-modeling-language)  
+   9.1. [Diagramme use case](#diagramme-use-case)  
+   9.2. [Diagramme de classe](#diagramme-de-classe)  
+   9.3. [Diagramme de séquence](#diagramme-de-séquence)  
 10. [Source](#source)
+
 
 ## Contexte du projet
 
