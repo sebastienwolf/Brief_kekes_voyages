@@ -149,3 +149,6 @@ CREATE TABLE stopover(
 
 ## Diagramme use case
 Cliquer sur le diagramme pour l'atteindre : [![diagrammeUseCase.png](./UML/diagrammeUseCase.png)](./UML/diagrammeUseCase.png)
+
+## Diagramme use case
+Cliquer sur le diagramme pour l'atteindre : [![diagrammeDeClasse.drawio.png](./UML/diagrammeDeClasse.drawio.png)](./UML/diagrammeDeClasse.drawio.png)
